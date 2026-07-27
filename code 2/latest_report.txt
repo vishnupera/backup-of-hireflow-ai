@@ -1,0 +1,372 @@
+================ TELEMETRY INPUT ================
+
+{
+  "session_id": "interview_1785144936",
+  "total_duration_seconds": 28.83,
+  "total_frames_processed": 847,
+  "overall_interview_score": 63,
+  "performance_classifications": {
+    "overall_performance_level": "Average",
+    "interview_readiness_level": "Average",
+    "confidence_level": "Needs Improvement",
+    "attention_level": "Average",
+    "eye_contact_level": "Average",
+    "emotion_stability_level": "Average",
+    "head_stability_level": "Excellent"
+  },
+  "confidence_metrics": {
+    "overall_confidence_score": 48.5,
+    "average_confidence": 48.4,
+    "nervousness_score": 70.0,
+    "engagement_score": 62.2,
+    "eye_contact_score": 61.5,
+    "attention_score": 62.9,
+    "head_stability_score": 85.2,
+    "emotion_stability_score": 58.3
+  },
+  "attention_metrics": {
+    "attention_score": 45.0,
+    "average_attention_percentage": 62.9,
+    "focus_time_seconds": 0.0,
+    "looking_away_time_seconds": 28.48,
+    "distraction_events": 1,
+    "is_currently_distracted": true,
+    "attention_timeline": [
+      75.0,
+      75.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      75.0,
+      45.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      45.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      45.0,
+      75.0,
+      75.0,
+      75.0,
+      75.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0,
+      45.0
+    ]
+  },
+  "eye_metrics": {
+    "eye_contact": false,
+    "iris_tracking": {
+      "left_iris": [
+        289.41545009613037,
+        191.43612027168274
+      ],
+      "right_iris": [
+        226.83465480804443,
+        193.60617399215698
+      ]
+    },
+    "gaze_direction": "Blinking / Closed",
+    "blink_detected": true,
+    "blink_count": 49,
+    "blink_rate_bpm": 49,
+    "ear": 0.147,
+    "eye_open_percentage": 41.9,
+    "looking_left": false,
+    "looking_right": false,
+    "looking_up": false,
+    "looking_down": false,
+    "looking_center": false,
+    "eye_stability": 91.9,
+    "eye_contact_percentage": 61.5
+  },
+  "emotion_metrics": {
+    "current_emotion": "Angry",
+    "emotion_confidence": 78.0,
+    "dominant_emotion": "Neutral",
+    "emotion_stability": 58.3,
+    "emotion_distribution": {
+      "Happy": 0.0,
+      "Neutral": 58.3,
+      "Sad": 0.0,
+      "Angry": 41.7,
+      "Fear": 0.0,
+      "Surprise": 0.0,
+      "Disgust": 0.0
+    },
+    "live_distribution": {
+      "Happy": 5.0,
+      "Neutral": 5.0,
+      "Sad": 5.0,
+      "Angry": 75.0,
+      "Fear": 5.0,
+      "Surprise": 5.0,
+      "Disgust": 5.0
+    },
+    "emotion_timeline": [
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry",
+      "Angry"
+    ]
+  },
+  "face_metrics": {
+    "face_detected": true,
+    "bounding_box": {
+      "x": 187,
+      "y": 145,
+      "width": 138,
+      "height": 141
+    },
+    "face_center": [
+      256,
+      215
+    ],
+    "face_area": 19458.0,
+    "face_position": "Center",
+    "face_distance": "Ideal",
+    "visibility_percentage": 100.0,
+    "head_pose": {
+      "pitch": 164.1,
+      "yaw": -12.2,
+      "roll": -2.7
+    },
+    "head_status": "Looking Up",
+    "head_stability": 85.2
+  }
+}
+
+================ GENERATED REPORT ================
+
+######################################################################
+                     HIREFLOW AI INTERVIEW REPORT
+######################################################################
+
+1. Overall Interview Summary
+Show:
+Overall Score: 63
+Performance Level: Average
+Interview Readiness: Average
+
+------------------------------------------------------------
+
+2. Executive Summary
+The interviewee demonstrated an average level of overall performance, with strengths in head stability and weaknesses in confidence and attention. The interviewee's dominant emotion was anger, which impacted their emotional stability. However, they showed good eye contact and a stable face position. With practice and improvement, the interviewee can enhance their confidence and attention to reach higher levels of performance.
+
+------------------------------------------------------------
+
+3. Performance Breakdown
+For each category:
+• Confidence:
+  - Score: 48.5
+  - Performance Level: Needs Improvement
+  - Explanation: The low overall confidence score indicates that the interviewee struggled with self-assurance during the interview.
+• Attention:
+  - Score: 45.0
+  - Performance Level: Average
+  - Explanation: The average attention score suggests that the interviewee maintained focus for most of the interview, but had some moments of distraction.
+• Eye Contact:
+  - Score: 61.5
+  - Performance Level: Average
+  - Explanation: The good eye contact percentage indicates that the interviewee made an effort to maintain eye contact with the interviewer.
+• Emotion Stability:
+  - Score: 58.3
+  - Performance Level: Average
+  - Explanation: The average emotion stability score suggests that the interviewee struggled to manage their emotions during the interview, particularly when feeling angry.
+• Head Stability:
+  - Score: 85.2
+  - Performance Level: Excellent
+  - Explanation: The high head stability score indicates that the interviewee maintained a stable and composed demeanor throughout the interview.
+
+------------------------------------------------------------
+
+4. Eye Contact Analysis
+The interviewee's eye contact percentage was average, indicating they made an effort to maintain eye contact with the interviewer. However, their gaze direction was mostly blinking or closed, which may have detracted from their overall performance.
+
+------------------------------------------------------------
+
+5. Attention Analysis
+The interviewee's attention score was average, suggesting they maintained focus for most of the interview. However, their focus time was 0 seconds, indicating a lack of sustained attention in some moments.
+
+------------------------------------------------------------
+
+6. Emotion Analysis
+The dominant emotion detected during the interview was anger, which impacted the interviewee's emotional stability. Their emotion distribution showed a high percentage of angry emotions, suggesting that this emotion dominated their emotional state.
+
+------------------------------------------------------------
+
+7. Stress Analysis
+The interviewee exhibited signs of stress, including a high blink count and rate, indicating they may have felt anxious or nervous during the interview. However, their eye movement was generally stable, suggesting they were able to manage their stress levels.
+
+------------------------------------------------------------
+
+8. Head Pose Analysis
+The interviewee's head pose was mostly centered, with a slight pitch and yaw. Their head stability score was excellent, indicating that they maintained a composed and stable demeanor throughout the interview.
+
+------------------------------------------------------------
+
+9. Face Visibility Analysis
+The interviewee's face position was centered, and their visibility percentage was 100%, indicating that their face was clearly visible to the interviewer.
+
+------------------------------------------------------------
+
+10. Strengths
+• The interviewee demonstrated excellent head stability, which is a crucial aspect of maintaining composure during an interview.
+• They showed good eye contact, which indicates they were able to engage with the interviewer.
+• Their face position was centered and visible, indicating that they were comfortable and confident in their appearance.
+• The interviewee's overall demeanor was stable and composed, suggesting they were able to manage their emotions and stress levels.
+
+------------------------------------------------------------
+
+11. Areas for Improvement
+• The interviewee struggled with confidence, which impacted their overall performance.
+• They had moments of distraction during the interview, which detracted from their attention score.
+• Their emotional stability was affected by dominant anger emotions, which may have impacted their ability to engage with the interviewer.
+• The interviewee's blink rate and count were high, indicating they may have felt anxious or nervous during the interview.
+
+------------------------------------------------------------
+
+12. Action Plan
+To improve their performance, the interviewee should focus on building their confidence through practice and self-reflection. They should also work on maintaining sustained attention throughout the interview and managing their emotions to reach higher levels of emotional stability.
+
+------------------------------------------------------------
+
+13. Interview Readiness
+Level: Average
+Reason: The interviewee demonstrated average overall performance, with strengths in head stability but weaknesses in confidence and attention. With practice and improvement, they can enhance their confidence and attention to reach higher levels of performance.
+
+------------------------------------------------------------
+
+14. Recruiter Comments
+The interviewee showed great potential, particularly in terms of their head stability and eye contact. However, they struggled with confidence and attention, which impacted their overall performance. With guidance and support, the interviewee can develop these skills further and become a strong candidate for future opportunities.
+
+------------------------------------------------------------
+
+15. Final Verdict
+The interviewee demonstrated an average level of overall performance, with strengths in head stability and weaknesses in confidence and attention. While they showed potential, particularly in terms of their emotional stability, they need to work on building their confidence and attention to reach higher levels of performance. With practice and improvement, the interviewee can enhance their skills and become a strong candidate for future opportunities.
